@@ -1,2 +1,3 @@
 The first line of my thesis.
 This is line 2.
+Line 3.
