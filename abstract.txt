@@ -1,1 +1,2 @@
 The first line of my thesis.
+This is line 2.
